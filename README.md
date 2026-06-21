@@ -33,17 +33,17 @@
   <tr>
     <td><b>LED Breakout Board Testing</b></td>
     <td>Validated custom LED breakout board functionality utilizing our newly constructed power supply.</td>
-    <td><a href="YOUR_DRIVE_LINK_HERE" target="_blank">View Video</a></td>
+    <td><a href="https://drive.google.com/file/d/1-0xeh0fBfODWQqK5j-atnbAHsBJH2Yoi/view?usp=sharing" target="_blank">View Video</a></td>
   </tr>
   <tr>
     <td><b>Switch Breakout Board</b></td>
     <td>Designed, soldered, and interface-tested our custom switch breakout board with the LED board.</td>
-    <td><a href="YOUR_DRIVE_LINK_HERE" target="_blank">View Video/Photo</a></td>
+    <td><a href="https://drive.google.com/file/d/1wTD2YTU64vry8FrjzploI-m7EH4Ija3v/view?usp=sharing" target="_blank">View Video</a></td>
   </tr>
   <tr>
     <td><b>Relay Module Integration</b></td>
     <td>Integrated a relay module into the switch board to study isolated switching activity and high-power load handling.</td>
-    <td><a href="YOUR_DRIVE_LINK_HERE" target="_blank">View Video/Photo</a></td>
+    <td><a href="https://drive.google.com/file/d/1zFNQhPTuZRsg7KpDzxpcHSxrAtVtFLzA/view?usp=sharing" target="_blank">View Video</a></td>
   </tr>
 </table>
 
