@@ -130,11 +130,6 @@
 <h2 id="certificate"> 7. Internship Certificate</h2>
 <p>Credential awarded upon successful completion of the internship requirements, practical hardware evaluations, and project milestones.</p>
 
-<p align="center">
-  <a href="https://drive.google.com/file/d/1P9fjeMZ672lMdvp944bG4MK_WrZp0sds/view?usp=sharing" target="_blank">
-    <img src="certificate.png" alt="Official Internship Certificate" width="75%" style="border: 1px solid #ddd; border-radius: 6px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
-  </a>
-</p>
 
 <p align="center">
   🔗 <b><a href="https://drive.google.com/file/d/1P9fjeMZ672lMdvp944bG4MK_WrZp0sds/view?usp=sharing" target="_blank">Verify Official Internship Certificate</a></b>
