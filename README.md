@@ -3,7 +3,7 @@
 
 ---
 
-<h2>📋 Table of Contents</h2>
+<h2> Table of Contents</h2>
 <ul>
   <li><a href="#hardware-section">1. Hardware Section</a></li>
   <li><a href="#software-section">2. Software Section</a></li>
@@ -16,7 +16,7 @@
 
 ---
 
-<h2 id="hardware-section">🛠️ 1. Hardware Section</h2>
+<h2 id="hardware-section"> 1. Hardware Section</h2>
 <p>Hands-on development starting from foundational power electronics to modular circuit design and hardware testing.</p>
 
 <table width="100%">
@@ -54,7 +54,7 @@
 
 ---
 
-<h2 id="software-section">💻 2. Software Section (Simulation Showcase)</h2>
+<h2 id="software-section"> 2. Software Section (Simulation Showcase)</h2>
 <p>Extensive simulation and firmware verification utilizing <b>Keil uVision</b> for compilation and <b>Proteus Design Suite</b> for hardware emulation. Below are the verified video demonstrations of the compiled logic scripts:</p>
 
 <table width="100%">
@@ -75,7 +75,7 @@
 
 ---
 
-<h2 id="microcontroller-section">🎛️ 3. 8051 Microcontroller Section</h2>
+<h2 id="microcontroller-section"> 3. 8051 Microcontroller Section</h2>
 <p>Transitioned from standalone simulation to physical hardware execution. Programmed the 8051 microcontroller using <b>Keil</b> and <b>Programiz</b> platforms to interface with our custom switch breakout board.</p>
 <ul>
   <li><b>Logic Configuration:</b> Active-Low hardware implementation.</li>
@@ -98,7 +98,7 @@
 
 ---
 
-<h2 id="mini-project">🚦 4. Mini Project: Round-Robin Traffic Signal</h2>
+<h2 id="mini-project"> 4. Mini Project: Round-Robin Traffic Signal</h2>
 <p>Implemented a functional multi-junction traffic signaling system based on the <b>Round-Robin scheduling flow model</b> controlled entirely via the 8051 architecture.</p>
 
 <h3>Core Logic & Timing Design:</h3>
@@ -111,23 +111,23 @@
 
 ---
 
-<h2 id="gallery">📸 5. Internship Gallery</h2>
+<h2 id="gallery"> 5. Internship Gallery</h2>
 <p>A glimpse into our daily learning environment, practical lab infrastructure, and guidance sessions with our mentors.</p>
 <blockquote>
-  📂 <a href="https://drive.google.com/drive/folders/1xXyrEClXn9fhqc26tY9dqtcwzKZvTjme?usp=sharing" target="_blank"><b>Access Full Internship Media Album (Google Drive)</b></a>
+   <a href="https://drive.google.com/drive/folders/1xXyrEClXn9fhqc26tY9dqtcwzKZvTjme?usp=sharing" target="_blank"><b>Access Full Internship Media Album (Google Drive)</b></a>
 </blockquote>
 
 ---
 
-<h2 id="presentation">📊 6. Internship Presentation (PPT)</h2>
+<h2 id="presentation"> 6. Internship Presentation (PPT)</h2>
 <p>The definitive technical slide deck summarizing our methodology, circuit schematics, project execution milestone details, and final learning outcomes.</p>
 <blockquote>
-  📄 <a href="https://docs.google.com/presentation/d/1VeTmZWyd8dZEtODHRlj_ONgwgtSf3oK_/edit?usp=sharing&ouid=105477366807246064737&rtpof=true&sd=true" target="_blank"><b>View Internship PPT</b></a>
+   <a href="https://docs.google.com/presentation/d/1VeTmZWyd8dZEtODHRlj_ONgwgtSf3oK_/edit?usp=sharing&ouid=105477366807246064737&rtpof=true&sd=true" target="_blank"><b>View Internship PPT</b></a>
 </blockquote>
 
 ---
 
-<h2 id="certificate">📜 7. Internship Certificate</h2>
+<h2 id="certificate"> 7. Internship Certificate</h2>
 <p>Credential awarded upon successful completion of the internship requirements, practical hardware evaluations, and project milestones.</p>
 
 <p align="center">
