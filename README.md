@@ -1,11 +1,6 @@
 <h1 align="center">Embedded Systems & Microcontroller Internship</h1>
 <p align="center"><strong>"The journey from knowing to understanding"</strong></p>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Hardware-8051%20Microcontroller-blue?style=for-the-badge" alt="Hardware 8051">
-  <img src="https://img.shields.io/badge/Simulation-Keil%20%7C%20Proteus-orange?style=for-the-badge" alt="Software Keil Proteus">
-</p>
-
 ---
 
 <h2>📋 Table of Contents</h2>
@@ -33,12 +28,12 @@
   <tr>
     <td><b>Power Supply Design & Soldering</b></td>
     <td>Designed a stable power supply board and verified output voltages using a digital multimeter.</td>
-    <td><a href="YOUR_DRIVE_LINK_HERE" target="_blank">View Video/Photo</a></td>
+    <td><a href="https://drive.google.com/file/d/1EXgSh5Y19Xiy4fUV1AiPObD1VE_b49Kw/view?usp=sharing" target="_blank">View Video/Photo</a></td>
   </tr>
   <tr>
     <td><b>LED Breakout Board Testing</b></td>
     <td>Validated custom LED breakout board functionality utilizing our newly constructed power supply.</td>
-    <td><a href="YOUR_DRIVE_LINK_HERE" target="_blank">View Video/Photo</a></td>
+    <td><a href="YOUR_DRIVE_LINK_HERE" target="_blank">View Video</a></td>
   </tr>
   <tr>
     <td><b>Switch Breakout Board</b></td>
