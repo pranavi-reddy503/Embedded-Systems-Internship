@@ -78,26 +78,43 @@
 <h2 id="microcontroller-section">🎛️ 3. 8051 Microcontroller Section</h2>
 <p>Transitioned from standalone simulation to physical hardware execution. Programmed the 8051 microcontroller using <b>Keil</b> and <b>Programiz</b> platforms to interface with our custom switch breakout board.</p>
 <ul>
-  <li><b>Configuration:</b> Active-Low logic implementation.</li>
-  <li><b>Operation:</b> Real-time manual input via the switch board dictating dynamic, hardware-level LED response patterns.</li>
+  <li><b>Logic Configuration:</b> Active-Low hardware implementation.</li>
+  <li><b>Operation:</b> Dynamic hardware-level LED response patterns dictated by real-time manual inputs via a 3-bit switch configuration.</li>
 </ul>
-<p>🔗 <a href="YOUR_DRIVE_LINK_HERE" target="_blank"><b>Watch Hardware Execution Video</b></a></p>
+
+<h3>Switch Input to LED Pattern Mapping:</h3>
+<ul>
+  <li><code>000</code> &mdash; Glow lower four LEDs</li>
+  <li><code>001</code> &mdash; Glow upper four LEDs</li>
+  <li><code>010</code> &mdash; Even-positioned LEDs blinking</li>
+  <li><code>011</code> &mdash; Odd-positioned LEDs blinking</li>
+  <li><code>100</code> &mdash; Left scrolling sequence</li>
+  <li><code>101</code> &mdash; Right scrolling sequence</li>
+  <li><code>110</code> &mdash; Out-to-Middle pattern transition</li>
+  <li><code>111</code> &mdash; Middle-to-Out pattern transition</li>
+</ul>
+
+<p>🔗 <a href="https://drive.google.com/file/d/1jRxQ0am1ryG0hQSkSxwVK3x2ptCNgh6H/view?usp=sharing" target="_blank"><b>Watch Hardware Execution Video</b></a></p>
 
 ---
 
 <h2 id="mini-project">🚦 4. Mini Project: Round-Robin Traffic Signal</h2>
 <p>Implemented a functional multi-junction traffic signaling system based on the <b>Round-Robin scheduling flow model</b> controlled entirely via the 8051 architecture.</p>
+
+<h3>Core Logic & Timing Design:</h3>
 <ul>
-  <li><b>Logic:</b> Allocates equal, sequential time slices to each traffic direction to ensure optimized, collision-free flow.</li>
+  <li><b>Interjunction Safety Interlocking:</b> Programmed the controller to guarantee strict lane isolation &mdash; whenever one lane transitions to <b>Green</b>, all remaining lanes are explicitly forced to <b>Red</b> to prevent collision paths.</li>
+  <li><b>Asymmetric Delay Sequences:</b> Implemented accurate timing intervals where the transitional <b>Yellow</b> clearance delay is significantly shorter compared to the main <b>Green</b> (active flow) and <b>Red</b> (hold) timing windows, accurately mimicking real-world traffic patterns.</li>
 </ul>
-<p>🔗 <a href="YOUR_DRIVE_LINK_HERE" target="_blank"><b>Watch Project Demonstration Video</b></a></p>
+
+<p>🔗 <a href="https://drive.google.com/file/d/1p_N67e-ppAFT6HHRXQDMSfHrc3QRTob3/view?usp=sharing" target="_blank"><b>Watch Project Demonstration Video</b></a></p>
 
 ---
 
 <h2 id="gallery">📸 5. Internship Gallery</h2>
 <p>A glimpse into our daily learning environment, practical lab infrastructure, and guidance sessions with our mentors.</p>
 <blockquote>
-  📂 <a href="YOUR_DRIVE_LINK_HERE" target="_blank"><b>Access Full Internship Media Album (Google Drive)</b></a>
+  📂 <a href="https://drive.google.com/drive/folders/1xXyrEClXn9fhqc26tY9dqtcwzKZvTjme?usp=sharing" target="_blank"><b>Access Full Internship Media Album (Google Drive)</b></a>
 </blockquote>
 
 ---
@@ -105,7 +122,7 @@
 <h2 id="presentation">📊 6. Internship Presentation (PPT)</h2>
 <p>The definitive technical slide deck summarizing our methodology, circuit schematics, project execution milestone details, and final learning outcomes.</p>
 <blockquote>
-  📄 <a href="YOUR_DRIVE_LINK_HERE" target="_blank"><b>View / Download Internship PPT</b></a>
+  📄 <a href="https://docs.google.com/presentation/d/1VeTmZWyd8dZEtODHRlj_ONgwgtSf3oK_/edit?usp=sharing&ouid=105477366807246064737&rtpof=true&sd=true" target="_blank"><b>View Internship PPT</b></a>
 </blockquote>
 
 ---
@@ -114,11 +131,11 @@
 <p>Credential awarded upon successful completion of the internship requirements, practical hardware evaluations, and project milestones.</p>
 
 <p align="center">
-  <a href="YOUR_DRIVE_LINK_TO_CERTIFICATE_PDF_OR_IMAGE" target="_blank">
+  <a href="https://drive.google.com/file/d/1P9fjeMZ672lMdvp944bG4MK_WrZp0sds/view?usp=sharing" target="_blank">
     <img src="certificate.png" alt="Official Internship Certificate" width="75%" style="border: 1px solid #ddd; border-radius: 6px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
   </a>
 </p>
 
 <p align="center">
-  🔗 <b><a href="YOUR_DRIVE_LINK_TO_CERTIFICATE_PDF_OR_IMAGE" target="_blank">Verify Official Internship Certificate</a></b>
+  🔗 <b><a href="https://drive.google.com/file/d/1P9fjeMZ672lMdvp944bG4MK_WrZp0sds/view?usp=sharing" target="_blank">Verify Official Internship Certificate</a></b>
 </p>
