@@ -94,7 +94,7 @@
   <li><code>111</code> &mdash; Middle-to-Out pattern transition</li>
 </ul>
 
-<p>🔗 <a href="https://drive.google.com/file/d/1jRxQ0am1ryG0hQSkSxwVK3x2ptCNgh6H/view?usp=sharing" target="_blank"><b>Watch Hardware Execution Video</b></a></p>
+<p> <a href="https://drive.google.com/file/d/1jRxQ0am1ryG0hQSkSxwVK3x2ptCNgh6H/view?usp=sharing" target="_blank"><b>Watch Hardware Execution Video</b></a></p>
 
 ---
 
@@ -107,7 +107,7 @@
   <li><b>Asymmetric Delay Sequences:</b> Implemented accurate timing intervals where the transitional <b>Yellow</b> clearance delay is significantly shorter compared to the main <b>Green</b> (active flow) and <b>Red</b> (hold) timing windows, accurately mimicking real-world traffic patterns.</li>
 </ul>
 
-<p>🔗 <a href="https://drive.google.com/file/d/1p_N67e-ppAFT6HHRXQDMSfHrc3QRTob3/view?usp=sharing" target="_blank"><b>Watch Project Demonstration Video</b></a></p>
+<p> <a href="https://drive.google.com/file/d/1p_N67e-ppAFT6HHRXQDMSfHrc3QRTob3/view?usp=sharing" target="_blank"><b>Watch Project Demonstration Video</b></a></p>
 
 ---
 
@@ -132,5 +132,5 @@
 
 
 <p align="center">
-  🔗 <b><a href="https://drive.google.com/file/d/1P9fjeMZ672lMdvp944bG4MK_WrZp0sds/view?usp=sharing" target="_blank">Verify Official Internship Certificate</a></b>
+   <b><a href="https://drive.google.com/file/d/1P9fjeMZ672lMdvp944bG4MK_WrZp0sds/view?usp=sharing" target="_blank">Verify Official Internship Certificate</a></b>
 </p>
